@@ -1,0 +1,12 @@
+,value
+trained_until,1988-12-31 00:00:00
+n_models,28
+features,10
+shift_lag,12
+winsor_level,0.01
+norm_var,True
+valid_window_start,1983-01
+valid_window_end,1989-12
+mae_83_89,0.7370495101256245
+rmse_83_89,1.009179414076083
+r2_83_89,-0.2995725753782148
