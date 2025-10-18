@@ -1,14 +1,2 @@
-,0
-model,AR(p)
-trend,c
-p_used_last,4
-trained_until,1988-11-01
-h,12
-min_train_n,36
-cv_update_every_months,36
-eval_start,1983-01-01
-eval_end,1989-12-31
-MAE_1983_89,0.9007788151303038
-RMSE_1983_89,1.2556742388424804
-R2_1983_89,-1.0119525821773627
-n_oos_predictions,312
+,model,trend,cv_every_months,anchor,p_used_last,trained_until,n_obs_y,n_forecasts
+0,AR(p),c,36,1983-01-01,4,2024-08-01,788,741
