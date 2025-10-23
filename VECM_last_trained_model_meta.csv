@@ -1,0 +1,2 @@
+trained_until,n_features,horizon,k_ar_diff,coint_rank,deterministic
+2023-12-01 00:00:00,11,12,1,,ci
